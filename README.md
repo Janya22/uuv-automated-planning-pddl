@@ -55,6 +55,6 @@ The planning problem is subject to constraints such as:
 
 ---
 ## Plan Output:
-
+- Plan outputs for problems 1,2,3 & 4
 <img width="1218" height="1043" alt="image" src="https://github.com/user-attachments/assets/fc714f6b-083f-45d7-838b-5dff4ec25cfb" />
 
